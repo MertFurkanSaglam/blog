@@ -1,0 +1,7 @@
+Güvenlik
+Veritabanı işlemleri (ORM)
+Admin Paneli (Svaffolding CRUD)
+Topluluk
+Ek Modüller/Kütüphane zenginliği
+Dökümantasyon Güzelliği
+
